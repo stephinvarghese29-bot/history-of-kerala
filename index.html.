@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerala History | Land of Heritage</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+Kerala History
+</div>
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+<li><a href="#history">History</a></li>
+<li><a href="#timeline">Timeline</a></li>
+<li><a href="#culture">Culture</a></li>
+<li><a href="#tourism">Tourism</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<!-- HERO -->
+
+<section id="home" class="hero">
+
+<div class="overlay">
+
+<h1>History of Kerala</h1>
+
+<p>
+Explore the rich heritage, culture, traditions and glorious past of God's Own Country.
+</p>
+
+<a href="#history" class="btn">
+Explore History
+</a>
+
+</div>
+
+</section>
+
+<!-- HISTORY -->
+
+<section id="history">
+
+<h2>History of Kerala</h2>
+
+<p>
+
+Kerala has a history stretching back over 3000 years.
+Ancient spice trade connected Kerala with Rome, Arabia and China.
+
+The Chera Dynasty ruled much of Kerala before the arrival of the Portuguese in 1498.
+
+Later came Dutch and British influence before Kerala became a state of India on
+1 November 1956.
+
+</p>
+
+</section>
+
+<!-- TIMELINE -->
+
+<section id="timeline">
+
+<h2>Historical Timeline</h2>
+
+<div class="timeline">
+
+<div class="card">
+<h3>300 BCE</h3>
+<p>Ancient Kerala flourished through maritime trade.</p>
+</div>
+
+<div class="card">
+<h3>Chera Dynasty</h3>
+<p>One of South India's greatest kingdoms.</p>
+</div>
+
+<div class="card">
+<h3>1498</h3>
+<p>Vasco da Gama arrived at Kozhikode.</p>
+</div>
+
+<div class="card">
+<h3>British Era</h3>
+<p>Colonial administration shaped modern Kerala.</p>
+</div>
+
+<div class="card">
+<h3>1956</h3>
+<p>Formation of Kerala State.</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- CULTURE -->
+
+<section id="culture">
+
+<h2>Culture & Heritage</h2>
+
+<div class="grid">
+
+<div class="box">
+
+<i class="fas fa-masks-theater"></i>
+
+<h3>Kathakali</h3>
+
+<p>Classical dance-drama famous around the world.</p>
+
+</div>
+
+<div class="box">
+
+<i class="fas fa-drum"></i>
+
+<h3>Theyyam</h3>
+
+<p>Ancient ritual performance of North Kerala.</p>
+
+</div>
+
+<div class="box">
+
+<i class="fas fa-person"></i>
+
+<h3>Kalaripayattu</h3>
+
+<p>One of the world's oldest martial arts.</p>
+
+</div>
+
+<div class="box">
+
+<i class="fas fa-leaf"></i>
+
+<h3>Ayurveda</h3>
+
+<p>Traditional healthcare system of Kerala.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- TOURISM -->
+
+<section id="tourism">
+
+<h2>Top Destinations</h2>
+
+<div class="grid">
+
+<div class="box">
+
+<h3>Munnar</h3>
+
+<p>Tea plantations and hills.</p>
+
+</div>
+
+<div class="box">
+
+<h3>Alleppey</h3>
+
+<p>Backwaters and houseboats.</p>
+
+</div>
+
+<div class="box">
+
+<h3>Fort Kochi</h3>
+
+<p>Chinese fishing nets and colonial history.</p>
+
+</div>
+
+<div class="box">
+
+<h3>Wayanad</h3>
+
+<p>Nature, wildlife and waterfalls.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- GALLERY -->
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/hero.jpg" alt="Kerala">
+
+<img src="images/culture.jpg" alt="Culture">
+
+<img src="images/festivals.jpg" alt="Festival">
+
+<img src="images/monuments.jpg" alt="Monuments">
+
+<img src="images/map.png" alt="Kerala Map">
+
+<img src="images/tourism.jpg" alt="Tourism">
+
+</div>
+
+</section>
+
+<!-- CONTACT -->
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Email">
+
+<textarea placeholder="Message"></textarea>
+
+<button>Send</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Kerala History Website
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
